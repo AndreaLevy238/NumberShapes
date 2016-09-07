@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="description">Please type in a number on the line below and see if it is either a triangular or square number or both!</string>
+    <string name="ok">OK</string>
+    <string name="definitions">Square Number: a number whose square root is an integer.
+        \n \t\tFor example, 2 = √4
+        \n\nTriangular Number: a positive number that is described as a summation of the first n natural numbers.
+        \n \t\tFor example, 6 = 1 + 2 + 3</string>
+</resources>
